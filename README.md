@@ -29,6 +29,7 @@ e agradável.
 ### Entre em contato comigo!
 Me chama no discord: M4rs#6773
 ou pelo e-mail: marcusvromano02@gmail.com
+Também tem meu [LinkedIn](https://www.linkedin.com/in/marcus-romano-ba2487209/)
 
 ### Ferramentas e Tecnologias
 
