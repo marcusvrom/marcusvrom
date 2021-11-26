@@ -2,12 +2,12 @@
 ### Me chamo Marcus Romano, seja muito bem vindo(a) ao meu perfil!
 😄 Pronomes: Ele/Dele
 
-## Gosto muito de desenvolver e trabalhar principalmente com Front-End
+### Gosto muito de desenvolver e trabalhar principalmente com Front-End
 
-### Atualmente cursando Ciência da Computação
+## Atualmente cursando Ciência da Computação
 Estudo na Fundação Educacional do Município de Assis - FEMA em Assis - SP
 
-### Sou estágiario no Centro de Pesquisas em Informática (CEPEIN) na Fundação Educacional do Município de Assis - FEMA
+## Sou estágiario no Centro de Pesquisas em Informática (CEPEIN) na Fundação Educacional do Município de Assis - FEMA
 Desenvolvo sistemas para o portal acadêmico da faculdade, utilizando tecnologias como Spring Boot, Angular, Bootstrap etc.
 
 ### Atualmente aprendendo e aprofundando os conhecimentos em Angular 9 e PrimeNG
