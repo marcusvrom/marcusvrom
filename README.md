@@ -22,7 +22,7 @@ e agradável.
 
 ### Entre em contato comigo!
 Me chama no discord: M4rs#6773
-Ou pelo e-mail: marcusvromano02@gmail.com
+ou pelo e-mail: marcusvromano02@gmail.com
 
 ### Ferramentas e Tecnologias
 
