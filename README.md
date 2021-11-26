@@ -7,7 +7,7 @@
 ## Atualmente cursando Ciência da Computação
 Estudo na Fundação Educacional do Município de Assis - [FEMA](https://www.fema.edu.br) em Assis - SP
 
-### Sou estágiario no Centro de Pesquisas em Informática (CEPEIN) na [Fundação Educacional do Município de Assis - FEMA](https://www.fema.edu.br)
+#### Sou estágiario no Centro de Pesquisas em Informática (CEPEIN) na [Fundação Educacional do Município de Assis - FEMA](https://www.fema.edu.br)
 Desenvolvo sistemas para o portal acadêmico da faculdade, utilizando tecnologias como Spring Boot, Angular, Bootstrap etc.
 
 ### Atualmente aprendendo e aprofundando os conhecimentos em Angular 9 e PrimeNG
