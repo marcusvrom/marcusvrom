@@ -17,7 +17,7 @@ Também pretendo estudar tecnologias que auxiliam na acessibilidade dos sistemas
 ### Freelas
 Já realizei trabalhos para a empresa Owl Tecnologia como o desenvolvimento do [site da empresa](http://www.owl.tec.br) , também fiz
 o design de todas as imagens existentes nesse mesmo site. 
-Também desenvolvi outros trabalhos como por exemplo uma página de termos de serviço para um aplicativo móvel.
+Desenvolvi outros trabalhos como por exemplo uma página de termos de serviço para um aplicativo móvel.
 
 
 ### Curiosidade
