@@ -14,6 +14,12 @@ Desenvolvo sistemas para o portal acadêmico da faculdade, utilizando tecnologia
 Pretendo também continuar estudando mais tecnologias como por exemplo React que tenho muito interesse em aprender e adquirir expriência.
 Também pretendo estudar tecnologias que auxiliam na acessibilidade dos sistemas.
 
+### Freelas
+Já realizei trabalhos para a empresa Owl Tecnologia como o desenvolvimento do site da empresa http://www.owl.tec.br , também fiz
+o design de todas as imagens existentes nesse mesmo site. 
+Também desenvolvi outros trabalhos como por exemplo uma página de termos de serviço para um aplicativo móvel.
+
+
 ### Curiosidade
 Quando mais novo eu sempre quis ser designer e fugia de aprender a programar, mas quando descobri que podia fazer interfaces e 
 vi toda a interatividade que poderia desenvolver nos meus sistemas, comecei a me apaixonar por codar, me sinto cada vez mais confortável
