@@ -4,17 +4,17 @@
 
 ## Gosto muito de desenvolver e trabalhar principalmente com Front-End
 
-# Atualmente cursando Ciência da Computação
+### Atualmente cursando Ciência da Computação
 Estudo na Fundação Educacional do Município de Assis - FEMA em Assis - SP
 
-# Sou estágiario no Centro de Pesquisas em Informática (CEPEIN) na Fundação Educacional do Município de Assis - FEMA
+### Sou estágiario no Centro de Pesquisas em Informática (CEPEIN) na Fundação Educacional do Município de Assis - FEMA
 Desenvolvo sistemas para o portal acadêmico da faculdade, utilizando tecnologias como Spring Boot, Angular, Bootstrap etc.
 
-# Atualmente aprendendo e aprofundando os conhecimentos em Angular 9 e PrimeNG
+### Atualmente aprendendo e aprofundando os conhecimentos em Angular 9 e PrimeNG
 Pretendo também continuar estudando mais tecnologias como por exemplo React que tenho muito interesse em aprender e adquirir expriência.
 Também pretendo estudar tecnologias que auxiliam na acessibilidade dos sistemas.
 
-# Curiosidade
+### Curiosidade
 Quando mais novo eu sempre quis ser designer e fugia de aprender a programar, mas quando descobri que podia fazer interfaces e 
 vi toda a interatividade que poderia desenvolver nos meus sistemas, comecei a me apaixonar por codar, me sinto cada vez mais confortável
 desenvolvendo principalmente Front-End, meu objetivo é sempre aprender mais e conseguir levar até o usuário uma experiência funcional
