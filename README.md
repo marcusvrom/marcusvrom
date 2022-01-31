@@ -4,7 +4,7 @@
 
 ### Gosto muito de desenvolver e trabalhar principalmente com Front-End
 
-## Atualmente cursando Ciência da Computação
+## Atualmente cursando Análise e Desenvolvimento de Sistemas
 Estudo na Fundação Educacional do Município de Assis - [FEMA](https://www.fema.edu.br) em Assis - SP
 
 #### Sou estágiario no Centro de Pesquisas em Informática (CEPEIN) na [Fundação Educacional do Município de Assis - FEMA](https://www.fema.edu.br)
