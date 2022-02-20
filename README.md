@@ -23,7 +23,7 @@ Desenvolvi outros trabalhos como por exemplo uma página de termos de serviço p
 ### Curiosidade
 Quando mais novo eu sempre quis ser designer e fugia de aprender a programar, mas quando descobri que podia fazer interfaces e 
 vi toda a interatividade que poderia desenvolver nos meus sistemas, comecei a me apaixonar por codar, me sinto cada vez mais confortável
-desenvolvendo principalmente Front-End, meu objetivo é sempre aprender mais e conseguir levar até o usuário uma experiência funcional
+desenvolvendo (e continuo amando design também kkkk), meu objetivo é sempre aprender mais e conseguir levar até o usuário uma experiência funcional
 e agradável.
 
 ### Entre em contato comigo!
