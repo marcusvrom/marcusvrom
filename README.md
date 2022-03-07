@@ -4,6 +4,8 @@
 
 ### Gosto muito de desenvolver e trabalhar principalmente com Front-End
 
+![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcusvrom&theme=dark)
+
 ## Atualmente cursando Análise e Desenvolvimento de Sistemas
 
 #### Fui estágiario no Centro de Pesquisas em Informática (CEPEIN) na [Fundação Educacional do Município de Assis - FEMA](https://www.fema.edu.br)
@@ -29,7 +31,6 @@ e agradável.
 Me chama no discord: M4rs#6773 ou pelo e-mail: marcusvromano02@gmail.com e também tem meu [LinkedIn](https://www.linkedin.com/in/marcus-romano-ba2487209/)
 
 ![Marcus GitHub stats](https://github-readme-stats.vercel.app/api?username=marcusvrom&theme=dark&show_icons=true)
-[![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcusvrom&theme=dark)]
 
 ### Ferramentas e Tecnologias
 
