@@ -9,7 +9,7 @@
 #### Fui estágiario no Centro de Pesquisas em Informática (CEPEIN) na [Fundação Educacional do Município de Assis - FEMA](https://www.fema.edu.br)
 Desenvolvi sistemas para o portal acadêmico da faculdade, utilizando tecnologias como Spring Boot, Angular, Bootstrap etc.
 
-### Atualmente aprendendo e aprofundando os conhecimentos em Angular 9 e PrimeNG
+### Atualmente aprendendo e aprofundando os conhecimentos em ReactJS e React Native
 Pretendo também continuar estudando mais tecnologias como por exemplo React que tenho muito interesse em aprender e adquirir expriência.
 Também pretendo estudar tecnologias que auxiliam na acessibilidade dos sistemas.
 
