@@ -10,7 +10,7 @@
 Desenvolvi sistemas para o portal acadêmico da faculdade, utilizando tecnologias como Spring Boot, Angular, Bootstrap etc.
 
 ### Atualmente aprendendo e aprofundando os conhecimentos em ReactJS e React Native
-Pretendo também continuar estudando mais tecnologias como por exemplo React que tenho muito interesse em aprender e adquirir expriência.
+Pretendo continuar estudando mais tecnologias como por exemplo React que tenho muito interesse em aprender e adquirir expriência.
 Também pretendo estudar tecnologias que auxiliam na acessibilidade dos sistemas.
 
 ### Freelas
