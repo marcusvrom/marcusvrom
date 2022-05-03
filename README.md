@@ -38,7 +38,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="40" height="40"/>
 -->
   
-![Snake animation](https://github.com/IzaDarvelli/IzaDarvelli/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/marcusvrom/marcusvrom/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 <hr>
