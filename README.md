@@ -1,9 +1,11 @@
 <div align="center">
-  <h3>Eai! Meu nome é Marcus, seja muito bem vindo(a) ao meu perfil!</h3>
+  <h4>Eai! Meu nome é Marcus, seja muito bem vindo(a) ao meu perfil!</h4>
 </div>
 <hr>
 <div align="center">
   <img src="https://data.whicdn.com/images/271852085/original.gif" width="550"/>
+  
+  <h5><strong>“Qualquer um pode escrever um código que o computador entenda. <br> Bons programadores escrevem códigos que os humanos entendem.” - Martin Fowler</strong></h5>
 </div>
 <hr>
 
