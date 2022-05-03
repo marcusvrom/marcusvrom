@@ -1,43 +1,68 @@
-## Opa tudo bem? 👋
-### Me chamo Marcus Romano, seja muito bem vindo(a) ao meu perfil!
-😄 Pronomes: Ele/Dele
+<div align="center">
+  <h3>Eai! Meu nome é Marcus, seja muito bem vindo(a) ao meu perfil!</h3>
+</div>
+<hr>
+<div align="center">
+  <img src="https://data.whicdn.com/images/271852085/original.gif" width="550"/>
+</div>
+<hr>
 
-### Gosto muito de desenvolver e trabalhar principalmente com Front-End
+<br>
 
-## Atualmente cursando Análise e Desenvolvimento de Sistemas
+<img src="https://giffiles.alphacoders.com/190/190634.gif" align="right" />
 
-#### Fui estágiario no Centro de Pesquisas em Informática (CEPEIN) na [Fundação Educacional do Município de Assis - FEMA](https://www.fema.edu.br)
-Desenvolvi sistemas para o portal acadêmico da faculdade, utilizando tecnologias como Spring Boot, Angular, Bootstrap etc.
+<p> 🎓 Atualmente cursando Análise e Desenvolvimento de Sistemas na <a href="https://www.unicesumar.edu.br/home/">UNICESUMAR</a></p>
+<br>
+<p> 💜 Amo tecnologia e desenvolvimento, tanto backend quanto frontend! </p>
+<br>
+<p> 👀 Já trabalhei com design e gosto muito de UI/UX. </p>
+<br>
+<p>💻 Assisto animes, leio e jogo nas horas vagas.</p>
+<br>
+<p>🚀 No caminho para ser fluente em inglês.</p>
+<br>
 
-### Atualmente aprendendo e aprofundando os conhecimentos em ReactJS e React Native
-Pretendo continuar estudando mais tecnologias como por exemplo React que tenho muito interesse em aprender e adquirir expriência.
-Também pretendo estudar tecnologias que auxiliam na acessibilidade dos sistemas.
-
-### Freelas
-Já realizei trabalhos para a empresa Owl Tecnologia como o desenvolvimento do [site da empresa](http://www.owl.tec.br) , também fiz
-o design de todas as imagens existentes nesse mesmo site. 
-Desenvolvi outros trabalhos como por exemplo uma página de termos de serviço para um aplicativo móvel.
+<hr>
 
 
-### Curiosidade
-Quando mais novo eu sempre quis ser designer e fugia de aprender a programar, mas quando descobri que podia fazer interfaces e 
-vi toda a interatividade que poderia desenvolver nos meus sistemas, comecei a me apaixonar por codar, me sinto cada vez mais confortável
-desenvolvendo (e continuo amando design também kkkk), meu objetivo é sempre aprender mais e conseguir levar até o usuário uma experiência funcional
-e agradável.
 
-### Entre em contato comigo!
-Me chama no discord: M4rs#6773 ou pelo e-mail: marcusvromano02@gmail.com e também tem meu [LinkedIn](https://www.linkedin.com/in/marcus-romano-ba2487209/)
 
-![Marcus GitHub stats](https://github-readme-stats.vercel.app/api?username=marcusvrom&theme=dark&show_icons=true)
 
-### Ferramentas e Tecnologias
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div align="center">
+<h5>Ferramentas e Tecnologias</h5>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+</div>
 
-![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcusvrom&theme=dark)
-
-### Tenho Interesse/Estou Estudando
+<div align="center">
+<h5>Tenho Interesse/Estou Estudando</h5>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="40" height="40"/>
+  
+  
+![Snake animation](https://github.com/IzaDarvelli/IzaDarvelli/blob/output/github-contribution-grid-snake.svg)
+</div>
 
+<hr>
+
+[![Techs Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=marcusvrom&theme=tokyonight&layout=compact&custom_title=Linguagens&card_width=1000)](https://github.com/marcusvrom/github-readme-stats)
+
+<hr>
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-romano-ba2487209/)
