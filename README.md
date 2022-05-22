@@ -11,8 +11,11 @@
 
 <br>
 
-<img src="https://giffiles.alphacoders.com/190/190634.gif" align="right" />
-
+<div align="center">
+<img src="https://giffiles.alphacoders.com/190/190634.gif" width="320" align="center"/>
+<br>
+<br>
+<br>
 <p> 🎓 Atualmente cursando Análise e Desenvolvimento de Sistemas na <a href="https://www.unicesumar.edu.br/home/">UNICESUMAR</a></p>
 <br>
 <p> 💜 Amo tecnologia e desenvolvimento, tanto backend quanto frontend! </p>
@@ -22,6 +25,7 @@
 <p>💻 Assisto animes, leio e jogo nas horas vagas.</p>
 <br>
 <p>🚀 No caminho para ser fluente em inglês.</p>
+</div>
 <br>
 
 <hr>
