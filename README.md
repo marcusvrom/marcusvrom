@@ -3,7 +3,7 @@
 </div>
 <hr>
 <div align="center">
-  <img src="https://data.whicdn.com/images/271852085/original.gif" width="550"/>
+  <img src="https://data.whicdn.com/images/271852085/original.gif](https://c.tenor.com/6QGsaV8q7DIAAAAC/tenor.gif" width="550"/>
   
   <h5><strong>“Qualquer um pode escrever um código que o computador entenda. <br> Bons programadores escrevem códigos que os humanos entendem.” - Martin Fowler</strong></h5>
 </div>
