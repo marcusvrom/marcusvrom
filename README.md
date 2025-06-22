@@ -16,7 +16,7 @@
 <br>
 <br>
 <br>
-<p> 🎓 Atualmente cursando Análise e Desenvolvimento de Sistemas na <a href="https://www.unicesumar.edu.br/home/">UNICESUMAR</a></p>
+<p> 🎓 Engenheiro de Software e AWS Certified</p>
 <br>
 <p> 💜 Amo tecnologia e desenvolvimento, tanto backend quanto frontend! </p>
 <br>
