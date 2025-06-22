@@ -1,9 +1,8 @@
 <div align="center">
-  <h4>Eai! Meu nome é Marcus, seja muito bem vindo(a) ao meu perfil!</h4>
+  <h4>Eaí! Meu nome é Marcus (Pode me chamar de Romano se quiser), seja muito bem vindo(a) ao meu perfil!</h4>
 </div>
 <hr>
 <div align="center">
-  <img src="https://animesher.com/orig/1/179/1794/17943/animesher.com_yaboku-gif-noragami-1794306.gif" width="550"/>
   <h5><strong>“Qualquer um pode escrever um código que o computador entenda. <br> Bons programadores escrevem códigos que os humanos entendem.” - Martin Fowler</strong></h5>
 </div>
 <hr>
