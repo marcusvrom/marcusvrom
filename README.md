@@ -1,46 +1,127 @@
-<div align="center">
-  <h4>Eaí! Meu nome é Marcus (Pode me chamar de Romano se quiser), seja muito bem vindo(a) ao meu perfil!</h4>
-</div>
-<hr>
-<div align="center">
-  <h5><strong>“Qualquer um pode escrever um código que o computador entenda. <br> Bons programadores escrevem códigos que os humanos entendem.” - Martin Fowler</strong></h5>
-</div>
-<hr>
+# 👨🏻‍💻 Marcus Romano
 
-<br>
+🚀 **Software Engineer \| .NET \| Cloud \| Distributed Systems \| AWS
+Certified**
 
-<div align="center">
-<img src="https://giffiles.alphacoders.com/190/190634.gif" width="320" align="center"/>
-<br>
-<br>
-<br>
-<p> 🎓 Engenheiro de Software e AWS Certified</p>
-<br>
-<p> 💜 Amo tecnologia e desenvolvimento, tanto backend quanto frontend! </p>
-<br>
-<p> 👀 Já trabalhei com design e gosto muito de UI/UX. </p>
-<br>
-<p>💻 Assisto animes, leio e jogo nas horas vagas.</p>
-<br>
-<p>🚀 No caminho para ser fluente em inglês.</p>
-</div>
-<br>
+------------------------------------------------------------------------
 
-<hr>
+## 🇧🇷 Sobre mim
 
-<div align="center">
-<h4>Ferramentas e Tecnologias</h4>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" />
-          
-  
-  ![Snake animation](https://github.com/marcusvrom/marcusvrom/blob/output/github-contribution-grid-snake.svg)
-</div>
+Sou Engenheiro de Software com foco em desenvolvimento **Full-Stack e
+Cloud**, especializado em **.NET / C#**, arquitetura de APIs e
+modernização de sistemas legados para ambientes escaláveis.
 
-<hr>
-<a href = "mailto:marcusvromano02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+Tenho experiência em projetos de grande porte, principalmente no setor
+financeiro, trabalhando com:
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-romano-ba2487209/)
+-   Arquiteturas distribuídas
+-   Microsserviços
+-   Integração de sistemas
+-   Observabilidade
+-   Infraestrutura como Código
+-   CI/CD e DevOps
+
+🎯 Interesses atuais: - Arquitetura de Software - Sistemas
+Distribuídos - Engenharia de Plataforma - Cloud Computing - Performance
+& Escalabilidade - Engenharia orientada a eventos
+
+------------------------------------------------------------------------
+
+## 🇺🇸 About Me
+
+I'm a Software Engineer focused on **Full-Stack and Cloud Development**,
+specialized in **.NET / C#**, API architecture, and legacy system
+modernization into scalable environments.
+
+I have experience in large-scale projects (mainly in the financial
+sector), working with:
+
+-   Distributed architectures
+-   Microservices
+-   Systems integration
+-   Observability
+-   Infrastructure as Code
+-   CI/CD & DevOps practices
+
+------------------------------------------------------------------------
+
+# 🧠 Technical Skills
+
+## 🏗️ Backend
+
+-   .NET 6 / 7 / 8
+-   ASP.NET Core
+-   Web APIs (REST)
+-   Minimal APIs
+-   Entity Framework Core
+-   Dapper
+-   LINQ
+-   Clean Architecture
+-   Domain-Driven Design (DDD)
+-   SOLID Principles
+
+------------------------------------------------------------------------
+
+## 🎨 Frontend
+
+-   Angular
+-   TypeScript
+-   RxJS
+-   Micro Frontends
+-   Module Federation
+-   Reactive Forms
+
+------------------------------------------------------------------------
+
+## ☁️ Cloud & DevOps
+
+-   AWS (Certified)
+    -   ECS
+    -   EC2
+    -   S3
+    -   RDS
+    -   IAM
+    -   CloudWatch
+-   Terraform
+-   Docker
+-   GitHub Actions
+-   Observability & Monitoring
+-   Datadog (APM & Logs)
+
+------------------------------------------------------------------------
+
+## 🗄️ Databases
+
+-   SQL Server
+-   PostgreSQL
+-   MySQL
+
+------------------------------------------------------------------------
+
+# 📜 Certifications
+
+-   🏅 AWS Certified Cloud Practitioner
+
+------------------------------------------------------------------------
+
+# 🧪 Engineering Mindset
+
+I value:
+
+-   Code quality over shortcuts\
+-   Observability first\
+-   Automation over manual processes\
+-   Documentation as a feature\
+-   Architecture driven by business needs
+
+------------------------------------------------------------------------
+
+# 🤝 Let's Connect
+
+-   💼 LinkedIn: https://www.linkedin.com/in/marcus-romano/
+-   📍 Brazil
+-   ☁️ Cloud & Distributed Systems Enthusiast
+
+------------------------------------------------------------------------
+
+⚡ Always building. Always learning.
