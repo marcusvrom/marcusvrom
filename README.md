@@ -40,22 +40,6 @@
   ![Snake animation](https://github.com/marcusvrom/marcusvrom/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-<!--
-<div align="center">
-<h4>Tenho Interesse/Estou Estudando</h4>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="40" height="40"/>
-</div>
--->
-
-
-
-
-
-<hr>
-
-[![Techs Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=marcusvrom&theme=tokyonight&layout=compact&custom_title=Linguagens&card_width=1000)](https://github.com/marcusvrom/github-readme-stats)
-
 <hr>
 <a href = "mailto:marcusvromano02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
