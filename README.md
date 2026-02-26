@@ -1,127 +1,116 @@
-# 👨🏻‍💻 Marcus Romano
+# 🚀 Marcus Romano
 
-🚀 **Software Engineer \| .NET \| Cloud \| Distributed Systems \| AWS
-Certified**
+### Software Engineer \| .NET Specialist \| Cloud & Distributed Systems
 
-------------------------------------------------------------------------
-
-## 🇧🇷 Sobre mim
-
-Sou Engenheiro de Software com foco em desenvolvimento **Full-Stack e
-Cloud**, especializado em **.NET / C#**, arquitetura de APIs e
-modernização de sistemas legados para ambientes escaláveis.
-
-Tenho experiência em projetos de grande porte, principalmente no setor
-financeiro, trabalhando com:
-
--   Arquiteturas distribuídas
--   Microsserviços
--   Integração de sistemas
--   Observabilidade
--   Infraestrutura como Código
--   CI/CD e DevOps
-
-🎯 Interesses atuais: - Arquitetura de Software - Sistemas
-Distribuídos - Engenharia de Plataforma - Cloud Computing - Performance
-& Escalabilidade - Engenharia orientada a eventos
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcus%20Romano-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marcus-romano/)
+![AWS](https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-Framework-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Containerized-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Go](https://img.shields.io/badge/Go-Studying-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![AI](https://img.shields.io/badge/AI-Prompt%20Engineering-111111?style=for-the-badge)
 
 ------------------------------------------------------------------------
 
-## 🇺🇸 About Me
+## 🌎 About Me
 
-I'm a Software Engineer focused on **Full-Stack and Cloud Development**,
-specialized in **.NET / C#**, API architecture, and legacy system
-modernization into scalable environments.
+I am a Brazilian **Software Engineer** specialized in building scalable,
+cloud-native applications using **.NET and AWS**.
 
-I have experience in large-scale projects (mainly in the financial
-sector), working with:
+I work with:
 
--   Distributed architectures
--   Microservices
--   Systems integration
--   Observability
--   Infrastructure as Code
--   CI/CD & DevOps practices
+-   High-performance APIs
+-   Distributed systems
+-   Microservices architectures
+-   Cloud infrastructure (AWS)
+-   CI/CD & DevOps automation
+-   Observability & monitoring
+
+My background includes large-scale enterprise systems, especially in the
+financial sector, focusing on reliability, scalability, and clean
+architecture principles.
 
 ------------------------------------------------------------------------
 
-# 🧠 Technical Skills
+## 🧠 Core Expertise
 
-## 🏗️ Backend
+### 🏗 Backend Engineering
 
 -   .NET 6 / 7 / 8
 -   ASP.NET Core
--   Web APIs (REST)
+-   RESTful APIs
 -   Minimal APIs
 -   Entity Framework Core
 -   Dapper
--   LINQ
 -   Clean Architecture
--   Domain-Driven Design (DDD)
 -   SOLID Principles
+-   Domain-Driven Design (DDD)
 
-------------------------------------------------------------------------
-
-## 🎨 Frontend
+### 🎨 Frontend Development
 
 -   Angular
 -   TypeScript
 -   RxJS
 -   Micro Frontends
 -   Module Federation
--   Reactive Forms
 
-------------------------------------------------------------------------
+### ☁ Cloud & DevOps
 
-## ☁️ Cloud & DevOps
-
--   AWS (Certified)
-    -   ECS
-    -   EC2
-    -   S3
-    -   RDS
-    -   IAM
-    -   CloudWatch
--   Terraform
+-   AWS (ECS, EC2, S3, RDS, IAM, CloudWatch)
+-   Terraform (Infrastructure as Code)
 -   Docker
 -   GitHub Actions
--   Observability & Monitoring
--   Datadog (APM & Logs)
+-   CI/CD Pipelines
+-   Datadog (APM & Monitoring)
 
 ------------------------------------------------------------------------
 
-## 🗄️ Databases
+## 📚 Currently Studying & Exploring
 
--   SQL Server
--   PostgreSQL
--   MySQL
-
-------------------------------------------------------------------------
-
-# 📜 Certifications
-
--   🏅 AWS Certified Cloud Practitioner
+-   ⚡ Performance Engineering (API optimization & scalability patterns)
+-   🐹 Go (Golang) for high-performance services
+-   🤖 AI Prompt Engineering
+-   🧠 Intelligent Agents development to increase daily productivity
+-   🚀 Applied AI for automation and developer workflow optimization
 
 ------------------------------------------------------------------------
 
-# 🧪 Engineering Mindset
+## 🏆 Certifications
 
-I value:
-
--   Code quality over shortcuts\
--   Observability first\
--   Automation over manual processes\
--   Documentation as a feature\
--   Architecture driven by business needs
+-   AWS Certified Cloud Practitioner
 
 ------------------------------------------------------------------------
 
-# 🤝 Let's Connect
+## 🧩 Engineering Philosophy
+
+-   Architecture driven by business value
+-   Observability as a first-class citizen
+-   Automation over manual processes
+-   Scalability by design
+-   Clean and maintainable code
+
+------------------------------------------------------------------------
+
+## 🚀 Career Vision
+
+Focused on growing into high-impact engineering roles in global
+environments, contributing to:
+
+-   Cloud-native architectures
+-   Platform engineering
+-   AI-augmented development
+-   Scalable SaaS systems
+-   Performance-critical back-end services
+
+------------------------------------------------------------------------
+
+## 🤝 Let's Connect
 
 -   💼 LinkedIn: https://www.linkedin.com/in/marcus-romano/
--   📍 Brazil
--   ☁️ Cloud & Distributed Systems Enthusiast
+-   🌎 Based in Brazil
+-   🚀 Open to international opportunities
 
 ------------------------------------------------------------------------
 
-⚡ Always building. Always learning.
+### ⚡ Building scalable systems. Engineering the future.
