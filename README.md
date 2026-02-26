@@ -1,5 +1,3 @@
-# 🚀 Marcus Romano
-
 ### Software Engineer \| .NET Specialist \| Cloud & Distributed Systems
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcus%20Romano-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marcus-romano/)
